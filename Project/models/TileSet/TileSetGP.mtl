@@ -1,0 +1,234 @@
+# Blender 5.0.1 MTL File: 'TileSetGP.blend'
+# www.blender.org
+
+newmtl Arch
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Marble017_1K-JPG_Color.jpg
+map_Ns Marble017_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Marble017_1K-JPG_NormalGL.jpg
+
+newmtl Bone
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Ground057_1K-JPG_Color.jpg
+map_Ns Ground057_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Ground057_1K-JPG_NormalGL.jpg
+
+newmtl Floor
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd PavingStones079_1K-JPG_Color.jpg
+map_Ns PavingStones079_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 PavingStones079_1K-JPG_NormalGL.jpg
+
+newmtl Leather
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Leather027_1K-JPG_Color.jpg
+map_Ns Leather027_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Leather027_1K-JPG_NormalGL.jpg
+
+newmtl Metal
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Metal046B_1K-JPG_Color.jpg
+map_Ns Metal046B_1K-JPG_Roughness.jpg
+map_refl Metal046B_1K-JPG_Metalness.jpg
+map_Bump -bm 1.000000 Metal046B_1K-JPG_NormalGL.jpg
+
+newmtl Metal.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Metal055A_1K-JPG_Color.jpg
+map_Ns Metal055A_1K-JPG_Roughness.jpg
+map_refl Metal055A_1K-JPG_Metalness.jpg
+map_Bump -bm 1.000000 Metal055A_1K-JPG_NormalGL.jpg
+
+newmtl Metal.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Metal029_1K-JPG_Color.jpg
+map_Ns Metal029_1K-JPG_Roughness.jpg
+map_refl Metal029_1K-JPG_Metalness.jpg
+map_Bump -bm 1.000000 Metal029_1K-JPG_NormalGL.jpg
+
+newmtl Onyx
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.100000
+d 1.000000
+illum 2
+map_Kd Onyx013_1K-JPG_Color.jpg
+map_Ns Onyx013_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Onyx013_1K-JPG_NormalGL.jpg
+
+newmtl PurpleFabric
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Fabric042_1K-JPG_Color.jpg
+map_Ns Fabric042_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Fabric042_1K-JPG_NormalGL.jpg
+
+newmtl RedCol
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.399152 0.000000 0.005898
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl RedStone
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.802017 0.001524 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Rock
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Rock041_1K-JPG_Color.jpg
+map_Ns Rock041_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Rock041_1K-JPG_NormalGL.jpg
+
+newmtl Roof
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd Marble002_1K-JPG_Color.jpg
+map_Ns Marble002_1K-JPG_Roughness.jpg
+map_d Marble002_1K-JPG_Opacity.jpg
+map_Bump -bm 1.000000 Marble002_1K-JPG_NormalGL.jpg
+
+newmtl Runes
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Runes_albedo.png
+map_Bump -bm 1.000000 Runes_normal.png
+
+newmtl TableStone
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Tiles075_1K-JPG_Color.jpg
+map_Ns Tiles075_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Tiles075_1K-JPG_NormalGL.jpg
+
+newmtl Wall
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bricks058_1K-JPG_Color.jpg
+map_Ns Bricks058_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Bricks058_1K-JPG_NormalGL.jpg
+
+newmtl WhiteCol
+Ns 250.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+
+newmtl WhiteFabric
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Fabric061_1K-JPG_Color.jpg
+map_Ns Fabric061_1K-JPG_Roughness.jpg
+map_Bump -bm 1.000000 Fabric061_1K-JPG_NormalGL.jpg
+
+newmtl Wood
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Planks037B_1K-JPG_Color.jpg
+map_Ns Planks037B_1K-JPG_Roughness.jpg
+map_refl Planks037B_1K-JPG_Metalness.jpg
+map_Bump -bm 1.000000 Planks037B_1K-JPG_NormalGL.jpg
+
+newmtl Wood.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Wood027_1K-PNG_Color.png
+map_Ns Wood027_1K-PNG_Roughness.png
+map_Bump -bm 1.000000 Wood027_1K-PNG_NormalGL.png
+
+newmtl Wood.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Wood027_1K-PNG_Color.png
+map_Ns Wood027_1K-PNG_Roughness.png
+map_Bump -bm 1.000000 Wood027_1K-PNG_NormalGL.png
